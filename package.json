@@ -2,7 +2,7 @@
   "name": "@f/map-keys",
   "description": "Map the keys of an object.",
   "repository": "git://github.com/micro-js/map-keys.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {

@@ -1,0 +1,17 @@
+{
+  "name": "@f/map-keys",
+  "description": "Map the keys of an object.",
+  "repository": "git://github.com/micro-js/map-keys.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish --access=public"
+  },
+  "dependencies": {
+    "@f/values": "^1.1.1"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
